@@ -7,7 +7,7 @@ We have recorded precision scores, accuracy scores, and recall scores.
 ![Screen Shot 2021-08-15 at 1 33 40 PM](https://user-images.githubusercontent.com/82029390/129487202-f895a8cc-790e-4a36-930c-99e66a31121c.png)
 
 
-Our calculated accuracy score is 65%. Our generated precision for our high-risk is 1% and the F1 score is 2%. These scores do not suggest that our model would be satisfactory in classification.
+Our calculated accuracy score is 65%. Our generated precision for our high-risk is 1% and the F1 score is 2%. These scores do not suggest that our model would be satisfactory in classification
 
 
 
